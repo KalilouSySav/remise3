@@ -1,6 +1,4 @@
-Sure, here's the revised Markdown code without the code snippets:
-
-## Remise3 - README.md
+# Remise3 - README.md
 
 ### Description
 
